@@ -1,3 +1,14 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+# Spring Boot
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Other
+*.log
+*.swp
+.DS_Store
