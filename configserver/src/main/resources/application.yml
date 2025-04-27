@@ -11,8 +11,8 @@ spring:
           #search-locations: "classpath:/config"
           #search-locations: "file:///D://cloud-config"
         git:
-          uri: "https://github.com/eazybytes/eazybytes-config.git"
-          default-label: main
+          uri: "https://github.com/Dhiraj124/microservices.git"
+          default-label: master
           timeout: 5
           clone-on-start: true
           force-pull: true
