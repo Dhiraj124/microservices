@@ -1,9 +1,11 @@
 # Spring Boot
-target/
+.idea/workspace.xml
+.idea/
 !.mvn/wrapper/maven-wrapper.jar
+target/
+**/target/
 
 # IDE
-.idea/
 *.iml
 *.ipr
 *.iws
